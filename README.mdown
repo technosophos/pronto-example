@@ -1,0 +1,9 @@
+# Pronto.JS Example
+
+This is a small example application using hte Pronto.JS framework.
+
+## Installation
+
+1. Clone this repository.
+2. Run `npm install` in the repository base.
+3. Run `node example.js`

@@ -1,0 +1,18 @@
+{
+  "name": "pronto-example",
+  "description": "Simple example of Pronto.js",
+  "keywords": ["pronto"],
+  "version": "0.0.1",
+  "author": "Matt Butcher <matthew.butcher@hp.com>",
+  "contributors": [
+    {"name": "Matt Butcher", "email": "matthew.butcher@hp.com"}
+  ],
+  "repository": "git://github.com/technosophos/pronto-example",
+  "main": "index",
+  "scripts": {
+  },
+  "dependencies": {
+    "pronto": ">=0.2"
+  },
+  "engines": {"node": ">= 0.4.9 < 1.0.0"}
+}
